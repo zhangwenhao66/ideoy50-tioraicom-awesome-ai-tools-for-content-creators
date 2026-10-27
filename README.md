@@ -77,6 +77,7 @@ Where the hours actually go, and where an hour saved is felt weekly.
 - **[Kapwing](https://www.kapwing.com/)** — Runs entirely in the browser, so a borrowed laptop is enough. `Freemium` `Web`
 - **[Runway](https://runway.com/)** — Generates and alters footage rather than only arranging what you filmed. `Freemium` `Web`
 - **[VEED](https://www.veed.io/)** — Aimed at somebody who wants a finished clip, not a timeline to learn. `Freemium` `Web`
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 
 ## Clipping and captions
 
